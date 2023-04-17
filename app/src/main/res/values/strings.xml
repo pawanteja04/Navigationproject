@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Navigationproject</string>
+    <string name="OpenDrawer">Open Navigation drawer</string>
+    <string name="ClDrawer">close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
